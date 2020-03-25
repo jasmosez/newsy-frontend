@@ -12,8 +12,7 @@ Uses React 12.6 and Redux 7.2
 There is not test coverage at this time
 
 # Let me know what you think!
-Newsy was built in collaboration with shakilabdin
-
+Newsy was built in collaboration with [shakilabdin](https://github.com/shakilabdin)
 
 
 //

@@ -5,8 +5,8 @@ The backend is an API that pulls data from newsapi and the NYTimes API. It can b
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). See more information about that at the end of this readme.
 
-## React / Redux versions
-Uses React 12.6 and Redux 7.2
+## React version
+Uses React 12.6
 
 ## How to run the test suite
 There is not test coverage at this time
